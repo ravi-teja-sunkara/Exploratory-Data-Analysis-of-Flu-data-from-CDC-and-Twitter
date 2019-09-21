@@ -9,7 +9,7 @@ The project also fetches the tweets on influenza and plots the heat map to compa
 A mini web application has been published using R Shiny to display all the visualizations. 
 
 ### Libraries Used in R
-ggplot, plotly, rtweet
+ggplot2, plotly, ggmap, rtweet
 
 ### Tools Used
  R studio, jupyter notebook, R, R shiny, Twitter REST API, Geocode API
