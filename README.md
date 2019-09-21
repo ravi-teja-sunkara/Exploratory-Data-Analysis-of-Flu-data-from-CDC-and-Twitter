@@ -21,4 +21,4 @@ ggplot, plotly, rtweet
  ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/EDA%202.JPG)
  
  * CDC vs Twitter on influenza
-<https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/CDC%20Heat%20Map.JPG><https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/Tweets%20Heatmap.JPG>
+<img src="https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/CDC%20Heat%20Map.JPG"><img src="https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/Tweets%20Heatmap.JPG">
