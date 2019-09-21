@@ -16,8 +16,11 @@ ggplot, plotly, rtweet
  
  ### Visualizations
  * Exploratory Data Analysis
+ 
  ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/EDA.JPG)
  ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/EDA%202.JPG)
  
  * CDC vs Twitter on influenza
- ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/CDC%20Heat%20Map.JPG) | ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/Tweets%20Heatmap.JPG)
+ Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/CDC%20Heat%20Map.JPG)  |  ![](https://github.com/ravi-teja-sunkara/Exploratory-Data-Analysis-of-Flu-data-from-CDC-and-Twitter/blob/master/Images/Tweets%20Heatmap.JPG)
